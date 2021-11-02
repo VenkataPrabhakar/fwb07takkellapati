@@ -5,7 +5,7 @@ Alphabets - E, F
 
 Class Selected:
 
-1.Earphones - makeYear (number) , brandName(string), isWireless( boolean)
+1.Earphones - manufacturedYear (number) , brandName(string), isWireless( boolean)
 
 2.Fabric - material(string), color(string), validity(number)
 
